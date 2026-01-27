@@ -1,0 +1,7 @@
+-c
+-I"E:/PROGRAMMING/FSA_Fresher/MCU/Code/S32DS_3_5/VehicleMonitor/include"
+-x assembler-with-cpp
+-DSTART_FROM_FLASH
+-g3
+-mcpu=cortex-m4
+-specs=nosys.specs
